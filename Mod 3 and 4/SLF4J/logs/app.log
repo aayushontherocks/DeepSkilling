@@ -1,0 +1,2 @@
+2025-07-02 00:21:00 [com.example.LoggingExample.main()] ERROR com.example.LoggingExample - This is an error message
+2025-07-02 00:21:00 [com.example.LoggingExample.main()] WARN  com.example.LoggingExample - This is a warning message
